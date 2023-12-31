@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Test",
+      "lastName": "Test",
+      "email": "robertram298@gmail.com",
+      "mobile": "9094234435",
+      "salary": "50000"
+    },
+    {
+      "firstName": "Somu",
+      "lastName": "Mani",
+      "email": "somuthor7@gmail.com",
+      "mobile": "909423445",
+      "salary": "350000",
+      "id": 3
+    },
+    {
+      "firstName": "Ramu",
+      "lastName": "M",
+      "email": "robertram298@gmail.com",
+      "mobile": "8984023494",
+      "salary": "12384",
+      "id": 4
+    },
+    {
+      "firstName": "Stark",
+      "lastName": "Howard",
+      "email": "starkhoward@gmail.com",
+      "mobile": "23912312123",
+      "salary": "1200000",
+      "id": 5
+    },
+    {
+      "firstName": "Somu",
+      "lastName": "Test",
+      "email": "somuthor7@gmail.com",
+      "mobile": "909423445",
+      "salary": "350000",
+      "id": 6
+    }
+  ]
+}
