@@ -19,6 +19,7 @@ export class ApiService {
     return this.httpClient.get<any>("http://localhost:3000/posts").pipe(map((res:any)=>{
       return res;
     }))
+
   }
   updateEmployee(data:any,id:any)
   {
